@@ -12,11 +12,10 @@ import com.blankj.androidutilcode.base.BaseDrawerActivity;
 import com.blankj.androidutilcode.feature.core.CoreUtilActivity;
 import com.blankj.androidutilcode.feature.sub.SubUtilActivity;
 import com.blankj.utilcode.util.BarUtils;
-import com.blankj.utilcode.util.ScreenUtils;
 
 /**
  * <pre>
- *     author: Blankj
+ *     author: Blankj(测试注释)
  *     blog  : http://blankj.com
  *     time  : 2016/09/29
  *     desc  : MainActivity
